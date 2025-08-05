@@ -2,15 +2,15 @@
 
 # 👋 Olá, eu sou Amanda Eleoterio!
 
-Desenvolvedor em formação e apaixonado por tecnologia, focado em transformar ideias em aplicações reais.  
-Estudo desenvolvimento FullStack com foco em JavaScript e suas tecnologias.
+Desenvolvedora em formação e entusiasta de tecnologia, em constante aprendizado e evolução. Focada em transformar 
+conceitos complexos em soluções práticas e eficientes.
 
 ## 🧠 Sobre mim
 
-- 💻 Estudante de Ciência da Computação.
+- 💻 Apaixonado por desenvolvimento de software e resolução de problemas.
 - 📚 Atualmente estudando: Java, Phyton, Node.js e Algoritmos.
-- 🧠 Curioso sobre Inteligência Artificial e DevOps
-- 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos reais
+- 🧠 Curioso sobre Inteligência Artificial e DevOps.
+- 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos reais.
 
 ---
 
